@@ -11,7 +11,7 @@ public class Arsipku implements Biodata, Nilai{
     }
 
    public void nama(){
-       System.out.println("Namaku = Didicks Setyaone");
+       System.out.println("Namaku = Mita Alifa");
    }
    
    public void tempatLahir(){
@@ -19,7 +19,7 @@ public class Arsipku implements Biodata, Nilai{
    }
    
    public void hobi(){
-       System.out.println("Hobi = Mobile Legends Bang Bang");
+       System.out.println("Hobi = Menonton Film");
    }
    
    public void agama(){
@@ -31,7 +31,7 @@ public class Arsipku implements Biodata, Nilai{
    }
    
    public void matematika(){
-       System.out.println("Matematika = 100");
+       System.out.println("Matematika = 90");
    }
     
 }
